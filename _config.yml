@@ -1,0 +1,37 @@
+# Site settings
+title: Henry - My blog
+email: henryarbolaez@gmail.com
+description: A blog about my journey to developer.
+url: "https://blog.henryarbolaez.co/" # the base hostname & protocol for your site
+portfolio: "https://henryarbolaez.co"
+twitter_username: henryarb92
+linkedin: henryarb92
+github: arbolaez001
+paginate: 3
+
+gems: [jekyll-paginate]
+
+# Build settings
+markdown: kramdown
+permalink: /:title
+
+#Default settings
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      author: Henry Arbolaez
+      layout: "post"
+      category: coding
+      comments: true
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "pages" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "page"
+
+
+

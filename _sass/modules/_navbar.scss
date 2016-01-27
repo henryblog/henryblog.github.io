@@ -1,0 +1,16 @@
+// ==========================================================================
+// Navbar
+// ==========================================================================
+
+.navbar {
+	position: relative;
+  text-align: center;
+	@include mq(small) {
+		margin-bottom: em(40px);
+	}
+	@include mq(medium) {
+		float: right;
+		margin-top: em(9px);
+		margin-bottom: em(24px);
+	}
+}
