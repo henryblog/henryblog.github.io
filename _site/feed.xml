@@ -3,10 +3,10 @@
   <channel>
     <title>Henry - My blog</title>
     <description>A blog about my journey to developer.</description>
-    <link>https://blog.henryarbolaez.co//</link>
-    <atom:link href="https://blog.henryarbolaez.co//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 27 Jan 2016 14:21:05 -0500</pubDate>
-    <lastBuildDate>Wed, 27 Jan 2016 14:21:05 -0500</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 27 Jan 2016 14:59:57 -0500</pubDate>
+    <lastBuildDate>Wed, 27 Jan 2016 14:59:57 -0500</lastBuildDate>
     <generator>Jekyll v3.1.0</generator>
     
       <item>
@@ -35,8 +35,8 @@
 
 </description>
         <pubDate>Wed, 27 Jan 2016 00:00:00 -0500</pubDate>
-        <link>https://blog.henryarbolaez.co//my-path-to-developer-and-bootcamp</link>
-        <guid isPermaLink="true">https://blog.henryarbolaez.co//my-path-to-developer-and-bootcamp</guid>
+        <link>/my-path-to-developer-and-bootcamp</link>
+        <guid isPermaLink="true">/my-path-to-developer-and-bootcamp</guid>
         
         
         <category>miamiTech aboutme Wyncode KnightFoundation</category>
