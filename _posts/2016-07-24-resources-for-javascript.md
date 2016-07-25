@@ -55,18 +55,16 @@ books:
 
 
 <h2>JavaScript Tutorials</h2>
-<div class="grid__col--12">
+<div class="grid__col-flex">
   {% for resource in page.books %}
-    <div class="grid__col--4">
-      <a href="{{ trhouse.link }}" class="book-panel">
+    <div class="grid__flex-1 grid__col-flex ">
+      <a href="{{ resource.link }}" class="book-panel">
         <div class="book-panel-heading text-center centered" style="width:90%">
           {{ resource.top_title }}
         </div>
       </a>
       <p>{{ resource.content }}</p>
-      <span>
-        <a href="{{ trhouse.link }}" class="btn btn__hover" title="">View {{resource.type}}</a>
-      </span>
+      <a href="{{ resource.link }}" class="btn btn__hover flex-margin-top btn-inline-table " title="">View {{resource.type}}</a>
     </div>
   {% endfor %}
 </div>
