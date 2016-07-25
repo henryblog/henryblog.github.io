@@ -35,7 +35,7 @@
 
 %pseudos {
   display: block;
-  content: ''; 
+  content: '';
   position: absolute;
 }
 
@@ -45,4 +45,20 @@
 	float: none;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+// text-center
+.text-center {
+  text-align: center;
+}
+
+// Center content on Display Flex
+.flex-wrap {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.no-padding {
+  padding: 0!important;
 }

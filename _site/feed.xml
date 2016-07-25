@@ -5,9 +5,123 @@
     <description>A blog about my journey to developer.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 27 Jan 2016 14:59:57 -0500</pubDate>
-    <lastBuildDate>Wed, 27 Jan 2016 14:59:57 -0500</lastBuildDate>
-    <generator>Jekyll v3.1.0</generator>
+    <pubDate>Sun, 24 Jul 2016 22:39:48 -0400</pubDate>
+    <lastBuildDate>Sun, 24 Jul 2016 22:39:48 -0400</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Resources for Javascript &amp; jQuery</title>
+        <description>&lt;ul class=&quot;list--divided&quot;&gt;
+  &lt;h2&gt;Treehouse Resources&lt;/h2&gt;
+  
+    &lt;li class=&quot;list-item&quot;&gt;
+      &lt;div class=&quot;grid__col--12 flex-wrap&quot;&gt;
+        &lt;div class=&quot;grid__col--4 no-padding&quot;&gt;
+          &lt;a href=&quot;https://teamtreehouse.com/library/javascript-basics&quot; class=&quot;treeh-panel&quot;&gt;
+            &lt;div class=&quot;treeh-panel-heading text-center centered&quot; style=&quot;width:90%&quot;&gt;
+              JavaScript Basics
+            &lt;/div&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;grid__col--8&quot;&gt;
+          &lt;h3&gt;JavaScript Basics&lt;/h3&gt;
+          &lt;p&gt;JavaScript is a programming language that drives the web: from front-end user interface design, to backend server-side programming, you&#39;ll find JavaScript at every stage of a web site and web application. In this course, you&#39;ll learn the fundamental programming concepts and syntax of the JavaScript programming language.&lt;/p&gt;
+          &lt;span&gt;
+            &lt;a href=&quot;https://teamtreehouse.com/library/javascript-basics&quot; class=&quot;btn btn__hover&quot; title=&quot;&quot;&gt;View Course&lt;/a&gt;
+          &lt;/span&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/li&gt;
+  
+    &lt;li class=&quot;list-item&quot;&gt;
+      &lt;div class=&quot;grid__col--12 flex-wrap&quot;&gt;
+        &lt;div class=&quot;grid__col--4 no-padding&quot;&gt;
+          &lt;a href=&quot;https://teamtreehouse.com/library/jquery-basics&quot; class=&quot;treeh-panel&quot;&gt;
+            &lt;div class=&quot;treeh-panel-heading text-center centered&quot; style=&quot;width:90%&quot;&gt;
+              jQuery Basics
+            &lt;/div&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;grid__col--8&quot;&gt;
+          &lt;h3&gt;jQuery Basics&lt;/h3&gt;
+          &lt;p&gt;jQuery Basics covers why you&#39;d want to use jQuery, what it is and how to include it in your projects. You&#39;ll build several projects over the course to give you the confidence to integrate jQuery in your own projects and add that level of flair and interactivity to any site you work on.&lt;/p&gt;
+          &lt;span&gt;
+            &lt;a href=&quot;https://teamtreehouse.com/library/jquery-basics&quot; class=&quot;btn btn__hover&quot; title=&quot;&quot;&gt;View Course&lt;/a&gt;
+          &lt;/span&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/li&gt;
+  
+    &lt;li class=&quot;list-item&quot;&gt;
+      &lt;div class=&quot;grid__col--12 flex-wrap&quot;&gt;
+        &lt;div class=&quot;grid__col--4 no-padding&quot;&gt;
+          &lt;a href=&quot;https://teamtreehouse.com/library/ajax-basics&quot; class=&quot;treeh-panel&quot;&gt;
+            &lt;div class=&quot;treeh-panel-heading text-center centered&quot; style=&quot;width:90%&quot;&gt;
+              AJAX Basics
+            &lt;/div&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;grid__col--8&quot;&gt;
+          &lt;h3&gt;AJAX Basics&lt;/h3&gt;
+          &lt;p&gt;AJAX is an important front-end web technology that lets JavaScript communicate with a web server. It lets you load new content without leaving the current page, creating a better, faster experience for your web site&#39;s visitors. In this course, you&#39;ll learn how AJAX works and how you can use JavaScript to communicate with a web server.&lt;/p&gt;
+          &lt;span&gt;
+            &lt;a href=&quot;https://teamtreehouse.com/library/ajax-basics&quot; class=&quot;btn btn__hover&quot; title=&quot;&quot;&gt;View Course&lt;/a&gt;
+          &lt;/span&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+&lt;h2&gt;JavaScript Tutorials&lt;/h2&gt;
+&lt;div class=&quot;grid__col--12&quot;&gt;
+  
+    &lt;div class=&quot;grid__col--4&quot;&gt;
+      &lt;a href=&quot;&quot; class=&quot;book-panel&quot;&gt;
+        &lt;div class=&quot;book-panel-heading text-center centered&quot; style=&quot;width:90%&quot;&gt;
+          Eloquent JavaScript
+        &lt;/div&gt;
+      &lt;/a&gt;
+      &lt;p&gt;This is a book about JavaScript, programming, and the wonders of the digital. You can read it online here, or get your own paperback copy of the book.&lt;/p&gt;
+      &lt;span&gt;
+        &lt;a href=&quot;&quot; class=&quot;btn btn__hover&quot; title=&quot;&quot;&gt;View Book&lt;/a&gt;
+      &lt;/span&gt;
+    &lt;/div&gt;
+  
+    &lt;div class=&quot;grid__col--4&quot;&gt;
+      &lt;a href=&quot;&quot; class=&quot;book-panel&quot;&gt;
+        &lt;div class=&quot;book-panel-heading text-center centered&quot; style=&quot;width:90%&quot;&gt;
+          Introduction To JavaScript
+        &lt;/div&gt;
+      &lt;/a&gt;
+      &lt;p&gt;Learn the fundamentals of JavaScript, the programming language of the Web.&lt;/p&gt;
+      &lt;span&gt;
+        &lt;a href=&quot;&quot; class=&quot;btn btn__hover&quot; title=&quot;&quot;&gt;View Course&lt;/a&gt;
+      &lt;/span&gt;
+    &lt;/div&gt;
+  
+    &lt;div class=&quot;grid__col--4&quot;&gt;
+      &lt;a href=&quot;&quot; class=&quot;book-panel&quot;&gt;
+        &lt;div class=&quot;book-panel-heading text-center centered&quot; style=&quot;width:90%&quot;&gt;
+          JavaScript For Cats
+        &lt;/div&gt;
+      &lt;/a&gt;
+      &lt;p&gt;JavaScript is a programming language or, in other words, a means by which a computer is instructed to do things.&lt;/p&gt;
+      &lt;span&gt;
+        &lt;a href=&quot;&quot; class=&quot;btn btn__hover&quot; title=&quot;&quot;&gt;View Book&lt;/a&gt;
+      &lt;/span&gt;
+    &lt;/div&gt;
+  
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 24 Jul 2016 00:00:00 -0400</pubDate>
+        <link>/resources-for-javascript</link>
+        <guid isPermaLink="true">/resources-for-javascript</guid>
+        
+        
+        <category>javascript jquery Wyncode</category>
+        
+      </item>
     
       <item>
         <title>My path to Developer &amp; Bootcamp</title>

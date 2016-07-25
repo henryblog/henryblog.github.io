@@ -107,6 +107,21 @@ button {
 	outline: 0;
 }
 
+.btn {
+	border: 2px solid tomato;
+	border-radius: 5px;
+	padding: 10px 20px;
+	font-size: 14px;
+	font-weight: 600;
+	color: tomato;
+	transition: 0.4s ease-in-out;
+	display: inline-block;
+}
+
+.btn__hover:hover {
+	color: white;
+	background: tomato;
+}
 // Footer
 
 footer {

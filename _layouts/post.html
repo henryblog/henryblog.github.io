@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div class="grid">
+<div class="grid-2">
   <div class="grid__col--12 post">
     <header class="post__header">
       <h1 class="post__title--grouped">{{ page.title }}</h1>
@@ -12,7 +12,7 @@ layout: default
       </div>
     </header>
     {% if page.image %}
-    <img class="feat-img is-hidden-mobile" src="{% if site.baseurl %}{{ site.baseurl }}{% endif %}/img/{{ page.image }}">
+      <img class="feat-img is-hidden-mobile" src="{% if site.baseurl %}{{ site.baseurl }}{% endif %}/img/{{ page.image }}">
     {% endif %}
     <article class="post__content">
       {{ content }}
