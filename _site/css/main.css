@@ -693,7 +693,7 @@ h2 {
       display: block; } }
 
 .grid__flex-1 {
-  flex: 1;
+  flex: 48% 1;
   margin: 10px 5px; }
 
 .flex-margin-top {

@@ -1,5 +1,5 @@
 ---
-title: Resources for Javascript & jQuery
+title: Resources for JavaScript & jQuery
 category: javascript jquery Wyncode
 side_title2: ["JavaScript Loops, Arrays and Objects", "Second"]
 treehouse:
@@ -26,6 +26,10 @@ books:
     content: "JavaScript is a programming language or, in other words, a means by which a computer is instructed to do things."
     link: http://jsforcats.com/
     type: Book
+  - top_title: Learn ES6 (ECMAScript 2015)
+    content: 'This course takes a look at some of the new features that JavaScript has available with ES6 (ECMAScript 2015). It is a "montage" from several instructors.'
+    link: https://egghead.io/courses/learn-es6-ecmascript-2015?utm_source=drip&utm_medium=email&utm_campaign=learn-es6
+    type: Course
 ---
 
 

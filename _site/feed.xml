@@ -5,12 +5,12 @@
     <description>A blog about my journey to developer.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 24 Jul 2016 22:58:42 -0400</pubDate>
-    <lastBuildDate>Sun, 24 Jul 2016 22:58:42 -0400</lastBuildDate>
+    <pubDate>Mon, 25 Jul 2016 08:16:42 -0400</pubDate>
+    <lastBuildDate>Mon, 25 Jul 2016 08:16:42 -0400</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
-        <title>Resources for Javascript &amp; jQuery</title>
+        <title>Resources for JavaScript &amp; jQuery</title>
         <description>&lt;ul class=&quot;list--divided&quot;&gt;
   &lt;h2&gt;Treehouse Resources&lt;/h2&gt;
   
@@ -104,6 +104,16 @@
       &lt;/a&gt;
       &lt;p&gt;JavaScript is a programming language or, in other words, a means by which a computer is instructed to do things.&lt;/p&gt;
       &lt;a href=&quot;http://jsforcats.com/&quot; class=&quot;btn btn__hover flex-margin-top btn-inline-table &quot; title=&quot;&quot;&gt;View Book&lt;/a&gt;
+    &lt;/div&gt;
+  
+    &lt;div class=&quot;grid__flex-1 grid__col-flex &quot;&gt;
+      &lt;a href=&quot;https://egghead.io/courses/learn-es6-ecmascript-2015?utm_source=drip&amp;amp;utm_medium=email&amp;amp;utm_campaign=learn-es6&quot; class=&quot;book-panel&quot;&gt;
+        &lt;div class=&quot;book-panel-heading text-center centered&quot; style=&quot;width:90%&quot;&gt;
+          Learn ES6 (ECMAScript 2015)
+        &lt;/div&gt;
+      &lt;/a&gt;
+      &lt;p&gt;This course takes a look at some of the new features that JavaScript has available with ES6 (ECMAScript 2015). It is a &quot;montage&quot; from several instructors.&lt;/p&gt;
+      &lt;a href=&quot;https://egghead.io/courses/learn-es6-ecmascript-2015?utm_source=drip&amp;amp;utm_medium=email&amp;amp;utm_campaign=learn-es6&quot; class=&quot;btn btn__hover flex-margin-top btn-inline-table &quot; title=&quot;&quot;&gt;View Course&lt;/a&gt;
     &lt;/div&gt;
   
 &lt;/div&gt;
